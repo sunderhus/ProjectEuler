@@ -16,6 +16,6 @@ describe('Prime Factors', () => {
     expect(findLargestPrimeFactor(13195)).toBe(29);
     expect(findLargestPrimeFactor(10)).toBe(5);
     expect(findLargestPrimeFactor(17)).toBe(17);
-    expect(findLargestPrimeFactor(600853)).toBe(54623);
+    expect(findLargestPrimeFactor(600851475143 )).toBe(6857);
   });
 });

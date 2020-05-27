@@ -16,6 +16,6 @@ describe('Prime Factors', function () {
         expect(desafio03_1.findLargestPrimeFactor(13195)).toBe(29);
         expect(desafio03_1.findLargestPrimeFactor(10)).toBe(5);
         expect(desafio03_1.findLargestPrimeFactor(17)).toBe(17);
-        expect(desafio03_1.findLargestPrimeFactor(600853)).toBe(54623);
+        expect(desafio03_1.findLargestPrimeFactor(600851475143)).toBe(6857);
     });
 });
